@@ -20,12 +20,25 @@
 ---
 
 ## 주요 프로젝트
-- **빌리미웃**: [실시간 초근접 물건 빌림 서비스](https://github.com/billimiut)
-
-- **Foodi**: [AI 기반 디지털 레시피 생성기](https://github.com/sunwoong00/lesik)
+<p align="center">
+  <a href="https://github.com/billimiut" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge&logo=Handshake&logoColor=white" alt="빌리미웃">
+  </a>
+  <br>
+  <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Foodi">
+  </a>
+</p>
 
 ---
 
 ## 연락처
-- **Email**: [helmrping@gmail.com](mailto:helmrping@gmail.com)  
-- **GitHub**: [https://github.com/JIGOOOD](https://github.com/JIGOOOD)
+<p align="center">
+  <a href="mailto:helmrping@gmail.com">
+    <img src="https://img.shields.io/badge/Email-helmrping@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <br>
+  <a href="https://github.com/JIGOOOD">
+    <img src="https://img.shields.io/badge/GitHub-JIGOOOD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
