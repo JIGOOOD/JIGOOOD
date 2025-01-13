@@ -22,11 +22,11 @@
 ## 주요 프로젝트
 <p align="center">
   <a href="https://github.com/billimiut" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge&logo=Handshake&logoColor=white" alt="빌리미웃">
+    <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge" alt="빌리미웃">
   </a>
   <br>
   <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Foodi">
+    <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge" alt="Foodi">
   </a>
 </p>
 
