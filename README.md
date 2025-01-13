@@ -20,25 +20,34 @@
 ---
 
 ## 주요 프로젝트
-<p align="center">
-  <!-- 로고 나란히 배치 -->
-  <a href="https://github.com/billimiut" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/33eadef1-d81e-4595-9ae0-05a75c582a6a" width="80" alt="빌리미웃 로고">
-  </a>
-  <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/2daf0365-d926-4f93-ba08-c9d38b253a7b" width="80" alt="Foodi 로고">
-  </a>
-</p>
-
-<p align="center">
-  <!-- 뱃지 나란히 배치 -->
-  <a href="https://github.com/billimiut" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge" alt="빌리미웃">
-  </a>
-  <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge" alt="Foodi">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <!-- 로고 나란히 배치 -->
+    <td align="center">
+      <a href="https://github.com/billimiut" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/33eadef1-d81e-4595-9ae0-05a75c582a6a" width="80" alt="빌리미웃 로고">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/2daf0365-d926-4f93-ba08-c9d38b253a7b" width="80" alt="Foodi 로고">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- 뱃지 나란히 배치 -->
+    <td align="center">
+      <a href="https://github.com/billimiut" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge" alt="빌리미웃">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge" alt="Foodi">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
