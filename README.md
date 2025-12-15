@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sunwoong00/lesik" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Foodi-AI 기반 디지털 레시피 생성기-196f3f?style=for-the-badge" alt="Foodi">
+        <img src="https://img.shields.io/badge/Foodi-AI 기반 레시피 구조화 시스템-196f3f?style=for-the-badge" alt="Foodi">
       </a>
     </td>
   </tr>
