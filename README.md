@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <br>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ---
@@ -26,6 +29,10 @@
 <table align="center">
   <tr>
     <!-- 로고 나란히 배치 -->
+    <td align="center">
+      <a href="https://github.com/billimiut" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/2957d6d4-e398-4553-aeff-2b95836bc441" width="80" alt="마이과외박스 로고">
+      </a>
     <td align="center">
       <a href="https://github.com/billimiut" style="text-decoration: none;">
         <img src="https://github.com/user-attachments/assets/33eadef1-d81e-4595-9ae0-05a75c582a6a" width="80" alt="빌리미웃 로고">
@@ -39,6 +46,11 @@
   </tr>
   <tr>
     <!-- 뱃지 나란히 배치 -->
+    <td align="center">
+      <a href="https://github.com/my-tutoring-box" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/마이과외박스-과외 진도 관리 통합 플랫폼-067BD8?style=for-the-badge" alt="마이과외박스">
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/billimiut" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/빌리미웃-실시간 초근접 물건 빌림 서비스-FFB900?style=for-the-badge" alt="빌리미웃">
