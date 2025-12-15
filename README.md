@@ -30,7 +30,7 @@
   <tr>
     <!-- 로고 나란히 배치 -->
     <td align="center">
-      <a href="https://github.com/billimiut" style="text-decoration: none;">
+      <a href="https://github.com/my-tutoring-box" style="text-decoration: none;">
         <img src="https://github.com/user-attachments/assets/2957d6d4-e398-4553-aeff-2b95836bc441" width="80" alt="마이과외박스 로고">
       </a>
     <td align="center">
